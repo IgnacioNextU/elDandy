@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no,
+    initial-scale=1.0,maximum-scale=1,minimum-scale=1">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/estilos.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,400;1,700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header class="hero">
+        <nav class="nav__hero">
+            <div class="container nav__container">
+                <div class="logo__name">
+                    <img src="img/foto-6.png" alt="">
+                </div>
+                <div class="links">
+                    <a href="#" class="link">Inicio</a>
+                    <a href="#" class="link">Nosotros</a>
+                    <a href="#" class="link link--active">Categorias</a>
+                </div>
+            </div>
+        </nav>
+        <section class="container hero__main">
+            <div class="hero__texto mockup">
+                <h1>El Dandy</h1>
+            </div>
+        </section>
+    </header>
+
+    <main>
+        <section class="contenedor">
+            <div class="contenedor-sobre-nosotros">
+                <img src="img/foto-6.png" alt="no la encontro">
+                <div class="contenido-texto">
+                    <h3 class="titulo-1">Nosotros</h3>
+                    <br>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit numquam neque cumque, minima id earum tenetur, dolor natus quaerat laborum nostrum eveniet voluptatem incidunt eaque. Explicabo consequatur quam veritatis necessitatibus!Lorem
+                        ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit numquam neque cumque, minima id earum tenetur, dolor natus quaerat laborum nostrum eveniet voluptatem incidunt eaque. Explicabo consequatur quam veritatis necessitatibus!
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit numquam neque cumque, minima id earum tenetur, dolor natus quaerat laborum nostrum eveniet voluptatem incidunt eaque. Explicabo consequatur quam veritatis
+                        necessitatibus!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit numquam neque cumque, minima id earum tenetur, dolor natus quaerat laborum nostrum eveniet voluptatem incidunt eaque. Explicabo consequatur
+                        quam veritatis necessitatibus! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit numquam neque cumque, minima id earum tenetur, dolor natus quaerat laborum nostrum eveniet voluptatem incidunt eaque. Explicabo
+                        consequatur quam veritatis necessitatibus!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit numquam neque cumque, minima id earum tenetur, dolor natus quaerat laborum nostrum eveniet voluptatem incidunt eaque.
+                        Explicabo consequatur quam veritatis necessitatibus!</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="contenedor">
+            <div class="categoria">
+                <h2 class="titulo-categoria">Categorias</h2>
+                <div class="contenedor-categoria">
+                    <div class="servicio-ind-1-2-3">
+                        <h3 class="titulo-2">Cubanos</h3>
+                        <br>
+                        <img src="img/foto-1.png" alt="no se encontro foto">
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit numquam neque cumque, minima id earum tenetur, dolor natus quaerat laborum nostrum eveniet voluptatem incidunt eaque. Explicabo consequatur quam veritatis
+                            necessitatibus!
+                        </p>
+                        <div class="box-bottom">
+                            <h2>Ver mas</h3>
+                        </div>
+                    </div>
+
+                    <div class="servicio-ind-1-2-3">
+
+                        <h3 class="titulo-2">Dominicanos</h3>
+                        <br>
+                        <img src="img/foto-2.png" alt="no se encontro foto">
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit numquam neque cumque, minima id earum tenetur, dolor natus quaerat laborum nostrum eveniet voluptatem incidunt eaque. Explicabo consequatur quam veritatis
+                            necessitatibus!
+                        </p>
+                        <div class="box-bottom">
+                            <h2>Ver mas</h3>
+                        </div>
+                    </div>
+
+                    <div class="servicio-ind-1-2-3">
+
+                        <h3 class="titulo-2">Seleccionados</h3>
+                        <br>
+                        <img src="img/foto-3.png" alt="no se encontro foto">
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit numquam neque cumque, minima id earum tenetur, dolor natus quaerat laborum nostrum eveniet voluptatem incidunt eaque. Explicabo consequatur quam veritatis
+                            necessitatibus!
+                        </p>
+                        <div class="box-bottom">
+                            <h2>Ver mas</h3>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <div class="first-letter">
+
+            <p><img src="img/comillas-1.png" alt="no se encontro la imagen"><br>
+                <br>« Si no puedo fumar puros en el cielo, no voy a ir ».<br>–MarkTwain
+            </p>
+            <p>
+                <br>« Si a su esposa no le gusta el aroma del puro, Cambie de esposa ».<br>–Zino Davidoff
+            </p><br>
+            <p>« A lo largo de su vida, corta pero apasionante, <br> los puros dejan atrás la huella de su existencia; la ceniza ».
+                <br>–Jane Resnick<br>
+                <br><img src="img/comillas-2.png" alt="no se encontro la imagen"></p>
+        </div>
+
+
+        </div>
+
+
+        <section class="contenedor">
+            <div class="contenedor-local">
+                <h2 class="box-title">Nuestro local</h3>
+                    <div class="slider">
+
+                        <ul>
+                            <li><img src="img/local-1.png" alt="" class="marca-img"></li>
+                            <li><img src="img/local-2.png" alt="" class="marca-img"></li>
+                            <li><img src="img/local-3.png" alt="" class="marca-img"></li>
+                            <li><img src="img/local-4.png" alt="" class="marca-img"></li>
+                        </ul>
+                    </div>
+                    <div class="box-bottom">
+                        <h2>Ver mas</h3>
+                    </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer">
+            <div class="footer-content grid">
+
+                <h4 class="texto-cre">Empresa: <br>
+                    <br>
+                    <p class="texto-p">El Dandy</p>
+                    <br>
+                </h4>
+                <h4 class="texto-cre">Contacto: <br>
+                    <br>
+                    <p class="texto-p">Telefono: 1234-1122. <br> E-mail: igmax007@gmail.com.<br> Direccion: La habana cuba.
+                    </p>
+                </h4>
+                <h4 class="texto-cre">Encuentranos en:<br>
+                    <br>
+                    <p class="texto-p">Facebook <br> instagram <br> Pinterest
+                    </p>
+                </h4>
+
+                <h4 class="texto-cre">Newsletter<br>
+                    <br>
+                    <p class="texto-p">Subcribete y obten un descuento <br> en tu primera compra</p>
+                    <div class="input-box-2">
+                        <input type="email" id="email" placeholder="Ingresá tu e-mail" size="50px">
+                        <span class="validity"></span>
+                    </div>
+                    <div>
+                        <button class="input-bottom">
+                            <h2>Enviar</h2>
+                        </button>
+                    </div>
+                </h4>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+
+
+
+</html>
